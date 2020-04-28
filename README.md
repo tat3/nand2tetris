@@ -1,5 +1,5 @@
 # nand2tetris
-「コンピュータシステムの理論と実装」より、nand2tetrisのTypeScript実装。
+「コンピュータシステムの理論と実装」より、各種変換ツールのTypeScript実装。
 
 ## 6章 Hackアセンブラ
 
